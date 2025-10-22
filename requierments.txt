@@ -1,8 +1,15 @@
 streamlit
 pandas
-matplotlib.pyplot
 numpy
 sklearn.linear_model
 sklearn.ensemble 
 sklearn.model_selection
 sklearn.metrics
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+plotly.express
+plotly
+scikit-learn
